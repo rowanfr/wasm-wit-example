@@ -1,0 +1,6 @@
+//! Only lower case alphanumeric characters for package name
+package namespace0:component1;
+
+world test {
+  export respond: func(name: string) -> string;
+}
